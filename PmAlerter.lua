@@ -1,3 +1,4 @@
+print("Hello and thanks for using PmAlerter!!")
 local Alert_BattleNet = CreateFrame("Frame")
 local Alert_Whisper = CreateFrame("Frame")
 
