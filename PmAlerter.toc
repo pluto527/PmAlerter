@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: PmAlerter
+## Author: Pluto527
+## OptDeps: BugSack, !Swatter
+## SavedVariables: mySavedVar
+
+PmAlerter.lua
